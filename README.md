@@ -1,4 +1,3 @@
-# Html_Css_folders
 <h1> Selin Portfolio </h1>
 
 Kisilerin kendilerini tanitabilecegi interaktif bir websitesi
